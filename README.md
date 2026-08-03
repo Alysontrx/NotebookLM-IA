@@ -1,43 +1,31 @@
-# ðŸš€ notebooklm inteligencia artificial
+# ðŸš€ NotebookLM IA
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=notebooklm-inteligencia-artificial&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=NotebookLM-IA&fontSize=40&fontColor=ffffff" />
 </div>
 
 > **Projeto desenvolvido e arquitetado por Alyson.**  
 > *Foco em alta performance, cÃ³digo limpo e soluÃ§Ãµes escalÃ¡veis.*
 
 ## ðŸ“‹ DescriÃ§Ã£o do Projeto
+Estudo e integraÃ§Ã£o com modelos de InteligÃªncia Artificial usando NotebookLM.
 
+Este repositÃ³rio contÃ©m a estrutura principal. ConstruÃ­do aplicando as melhores prÃ¡ticas de mercado para InteligÃªncia Artificial e Arquitetura de Dados.
 
-Este repositÃ³rio contÃ©m o cÃ³digo fonte e a estrutura arquitetural da aplicaÃ§Ã£o. Foi desenvolvido visando a mÃ¡xima eficiÃªncia e aplicando os melhores padrÃµes de mercado.
-
-## ðŸ›  Tech Stack (Tecnologias Utilizadas)
+## ðŸ›  Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ai" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,ai" />
 </div>
 <br>
 
-- **InteligÃªncia Artificial:** LLMs, AutomaÃ§Ã£o AutÃ´noma
+- **Foco Principal:** IA, Dados e AutomaÃ§Ã£o.
 
-
-## âš™ï¸ Como Executar (Ambiente Local)
+## âš™ï¸ Acesso
 
 1. FaÃ§a o clone do repositÃ³rio:
    `ash
-   git clone https://github.com/Alysontrx/notebooklm-inteligencia-artificial.git
+   git clone https://github.com/Alysontrx/NotebookLM-IA.git
    `
-2. Acesse o diretÃ³rio:
-   `ash
-   cd notebooklm-inteligencia-artificial
-   `
-3. Instale as dependÃªncias correspondentes Ã  stack do projeto (ex: 
-pm install, pip install -r requirements.txt ou composer install).
-4. Execute o servidor de desenvolvimento.
-
-## ðŸ” Estrutura e SeguranÃ§a
-Este projeto utiliza um .gitignore rigoroso para proteger credenciais (.env), bibliotecas (
-ode_modules, endor) e arquivos temporÃ¡rios de compilaÃ§Ã£o, garantindo a seguranÃ§a da aplicaÃ§Ã£o em produÃ§Ã£o.
 
 ---
 **Alyson** | Arquiteto Fullstack & IA
